@@ -27,7 +27,7 @@ public class Main {
   System.out.println(total);
      }
   }
-  ```
+```
 Тестирование производилось в следующем окружении:
 * ОС Windows 10 (64x)
 * Java 11
