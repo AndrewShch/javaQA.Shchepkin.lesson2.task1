@@ -8,7 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [Итоговое значение выходит за границы типа int. Из-за этого фактический результат не соответствует ожидаемому.](https://github.com/AndrewShch/javaQA.Shchepkin.lesson2.task1/issues/1)
+* [Использование типа "int" для переменной "total" не корректно. Нужен тип "long"](https://github.com/AndrewShch/javaQA.Shchepkin.lesson2.task1/issues/1)
 
 ## Описание процесса тестирования
 
