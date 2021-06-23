@@ -8,7 +8,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* [Использование типа "int" для переменной "total" не корректно. Нужен тип "long"](https://github.com/AndrewShch/javaQA.Shchepkin.lesson2.task1/issues/1)
+* [Программа не может посчитать уравнение](https://github.com/AndrewShch/javaQA.Shchepkin.lesson2.task1/issues/1)
 
 ## Описание процесса тестирования
 
