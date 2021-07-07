@@ -9,7 +9,7 @@
 В результате тестирования выявлены следующие дефек]
 ты:
 
-* [Отрицательное значение в итоговой переменной при пополнении счёта](https://github.com/AndrewShch/javaQA.Shchepkin.lesson2.task1/issues/1)
+* [Неверная сумма при пополнении счёта](https://github.com/AndrewShch/javaQA.Shchepkin.lesson2.task1/issues/1)
 
 ## Описание процесса тестирования
 
